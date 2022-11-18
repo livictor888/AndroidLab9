@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidLab9</string>
+    <string name="blank">                                 </string>
+    <string name="calculate">CALCULATE</string>
+    <string name="generate_json">Generate JSON</string>
+    <string name="number_2">Number 2</string>
+    <string name="enter_an_integer">Enter an integer</string>
+    <string name="number_1">Number 1</string>
+    <string name="enter_another_integer">Enter another integer</string>
+</resources>
